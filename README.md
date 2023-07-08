@@ -1,5 +1,17 @@
-# Web Scraping
+# Web Scraping Code for News Websites, Tokopedia, Shopee, Wikipedia, and More
 
+Welcome to my web scraping project! This repository contains code for scraping data from various websites, including news websites, e-commerce platforms like Tokopedia and Shopee, Wikipedia, and more.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Websites](#supported-websites)
+- [What is Web Scraping?](#what-is-web-scraping)
+- [Data Usage and Research](#data-usage-and-research)
+- [Contributing](#contributing)
+- [License](#license)
+- 
 ## What is Web Scraping?
 Web scraping is a technique used to extract data from websites. It involves automatically fetching web pages, parsing the HTML or XML content, and extracting the desired information. With web scraping, you can gather data from various sources and use it for analysis, research, or other purposes.
 
